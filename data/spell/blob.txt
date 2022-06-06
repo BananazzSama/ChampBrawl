@@ -1,0 +1,8 @@
+Blob
+Morvo saute sur l'ennemi comme un blob
+2
+2
+1
+1
+Morvo rebondit comme un blob sur son adversaire!
+1

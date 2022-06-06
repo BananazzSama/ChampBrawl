@@ -1,0 +1,11 @@
+Morvo
+Rôle : Tank | Morvo est un tas de morve étonnamment résistant qui a pris vie.
+5200
+5200
+31
+11
+24
+52
+data/spell/slime_punch.txt
+data/spell/blob.txt
+data/spell/splash.txt

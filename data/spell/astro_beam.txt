@@ -1,0 +1,8 @@
+Rayon Astro
+Astro tire un rayon d'énergie
+2
+2
+1
+1
+Astro utilise la magie des étoiles pour tirer un rayon d'énergie étoilée.
+1

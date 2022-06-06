@@ -1,0 +1,11 @@
+Raiju
+Rôle : Assassin | Raiju fait de la foudre avec son caca.
+2300
+2300
+23
+9
+85
+52
+data/spell/lightning_incision.txt
+data/spell/lightning_incision.txt
+data/spell/lightning_incision.txt

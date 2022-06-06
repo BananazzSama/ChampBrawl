@@ -1,0 +1,8 @@
+Poing du Roi
+King Ohm frappe
+2
+2
+1
+1
+King Ohm utilise son poing de Roi et frappe l'ennemi!
+1

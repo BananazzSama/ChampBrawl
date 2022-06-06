@@ -1,0 +1,11 @@
+Badasz Brabus
+
+3000
+3000
+15
+8
+54
+52
+data/spell/barbarian_opening.txt
+data/spell/naingarian_fervor.txt
+data/spell/naingui_instinct.txt

@@ -1,0 +1,11 @@
+King Ohm
+Rôle : Tank | Raiju fait de la foudre avec son caca.
+5000
+5000
+45
+15
+34
+52
+data/spell/kings_fist.txt
+data/spell/eye_of_the_demon_king.txt
+data/spell/earthquake.txt

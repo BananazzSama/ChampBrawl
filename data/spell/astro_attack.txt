@@ -1,0 +1,8 @@
+Attaque Astro
+Astro frappe avec les étoiles
+2
+2
+1
+1
+Astro utilise la magie des étoiles pour frapper son ennemi.
+1

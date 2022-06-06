@@ -1,0 +1,11 @@
+Beigaa
+Rôle : Mage | Raiju fait de la foudre avec son caca.
+2600
+2600
+25
+7
+60
+52
+data/spell/balanced_slash.txt
+data/spell/blessed_magic.txt
+data/spell/dark_energy.txt

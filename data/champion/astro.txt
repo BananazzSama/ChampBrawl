@@ -1,0 +1,11 @@
+Raiju
+Rôle : Support | Raiju fait de la foudre avec son caca.
+4000
+4000
+9
+9
+53
+52
+data/spell/astro_attack.txt
+data/spell/astro_beam.txt
+data/spell/astro_light.txt

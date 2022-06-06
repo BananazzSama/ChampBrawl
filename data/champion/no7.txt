@@ -1,0 +1,11 @@
+No.7
+Rôle : Assassin | Raiju fait de la foudre avec son caca.
+2100
+2100
+27
+10
+81
+52
+data/spell/slice.txt
+data/spell/perfect_execution.txt
+data/spell/focus.txt
